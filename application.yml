@@ -1,5 +1,5 @@
 my:
-   greeting: Hello World from config server on github
+   greeting: Hello World from config server on github updated again
    list:
       values: one, two, three, four
 db:
